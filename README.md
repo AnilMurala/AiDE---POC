@@ -1,3 +1,3 @@
 # underwriting-aide-poc
 
-This is for AiDE POC
+This is for POC
