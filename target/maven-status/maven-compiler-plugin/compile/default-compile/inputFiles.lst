@@ -1,0 +1,7 @@
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/UnderwritingAidePocApplication.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/controller/QuoteController.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/mapper/QuoteExtractor.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/model/Quote.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/model/QuoteList.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/repository/QuoteStore.java
+/volumes/user/home/anil.murala/poc/underwriting-aide-poc/src/main/java/com/example/underwritingaidepoc/service/QuoteService.java
